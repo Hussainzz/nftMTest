@@ -9,3 +9,7 @@ rename `.env.example` to `.env` and populate your API Key
 ### Start Script
 ```
 > npm start
+```
+
+
+![Alt Text](./mor.gif)
